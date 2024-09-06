@@ -1,0 +1,115 @@
+Execução:
+Resultados para o arquivo in1.txt:
+Tempo de execução: 3.4906e-05 segundos
+Peso máximo permitido: 380
+Mochila Cheia Valor Total: 373
+Mochila Cheia Peso Total: 379
+Hill Climbing Valor Total: 297
+Hill Climbing Valor Total: 376
+Resultados para o arquivo in2.txt:
+Tempo de execução: 3.6475e-05 segundos
+Peso máximo permitido: 239
+Mochila Cheia Valor Total: 154
+Mochila Cheia Peso Total: 238
+Hill Climbing Valor Total: 207
+Hill Climbing Peso Total: 235
+Resultados para o arquivo in3.txt:
+Tempo de execução: 4.2519e-05 segundos
+Peso máximo permitido: 600
+Mochila Cheia Valor Total: 496
+Mochila Cheia Peso Total: 600
+Hill Climbing Valor Total: 481
+Hill Climbing Peso Total: 598
+-----------------------------
+Execução:
+Resultados para o arquivo in1.txt:
+Tempo de execução: 2.3369e-05 segundos
+Peso máximo permitido: 380
+Mochila Cheia Valor Total: 373
+Mochila Cheia Peso Total: 379
+Hill Climbing Valor Total: 189
+Hill Climbing Peso Total: 371
+Resultados para o arquivo in2.txt:
+Tempo de execução: 3.5756e-05 segundos
+Peso máximo permitido: 239
+Mochila Cheia Valor Total: 154
+Mochila Cheia Peso Total: 238
+Hill Climbing Valor Total: 180
+Hill Climbing Peso Total: 239
+Resultados para o arquivo in3.txt:
+Tempo de execução: 2.1684e-05 segundos
+Peso máximo permitido: 600
+Mochila Cheia Valor Total: 496
+Mochila Cheia Peso Total: 600
+Hill Climbing Valor Total: 393
+Hill Climbing Peso Total: 596
+-----------------------------
+Execução:
+Resultados para o arquivo in1.txt:
+Tempo de execução: 2.4743e-05 segundos
+Peso máximo permitido: 380
+Mochila Cheia Valor Total: 373
+Mochila Cheia Peso Total: 379
+Hill Climbing Valor Total: 264
+Hill Climbing Peso Total: 379
+Resultados para o arquivo in2.txt:
+Tempo de execução: 3.5419e-05 segundos
+Peso máximo permitido: 239
+Mochila Cheia Valor Total: 154
+Mochila Cheia Peso Total: 238
+Hill Climbing Valor Total: 154
+Hill Climbing Peso Total: 238
+Resultados para o arquivo in3.txt:
+Tempo de execução: 5.9246e-05 segundos
+Peso máximo permitido: 600
+Mochila Cheia Valor Total: 496
+Mochila Cheia Peso Total: 600
+Hill Climbing Valor Total: 463
+Hill Climbing Peso Total: 597
+-----------------------------
+Execução:
+Resultados para o arquivo in1.txt:
+Tempo de execução: 2.3212e-05 segundos
+Peso máximo permitido: 380
+Mochila Cheia Valor Total: 373
+Mochila Cheia Peso Total: 379
+Hill Climbing Valor Total: 374
+Hill Climbing Peso Total: 376
+Resultados para o arquivo in2.txt:
+Tempo de execução: 3.7216e-05 segundos
+Peso máximo permitido: 239
+Mochila Cheia Valor Total: 154
+Mochila Cheia Peso Total: 238
+Hill Climbing Valor Total: 311
+Hill Climbing Peso Total: 238
+Resultados para o arquivo in3.txt:
+Tempo de execução: 1.5502e-05 segundos
+Peso máximo permitido: 600
+Mochila Cheia Valor Total: 496
+Mochila Cheia Peso Total: 600
+Hill Climbing Valor Total: 487
+Hill Climbing Peso Total: 599
+-----------------------------
+Execução:
+Resultados para o arquivo in1.txt:
+Tempo de execução: 2.3407e-05 segundos
+Peso máximo permitido: 380
+Mochila Cheia Valor Total: 373
+Mochila Cheia Peso Total: 379
+Hill Climbing Valor Total: 298
+Hill Climbing Peso Total: 368
+Resultados para o arquivo in2.txt:
+Tempo de execução: 5.7797e-05 segundos
+Peso máximo permitido: 239
+Mochila Cheia Valor Total: 154
+Mochila Cheia Peso Total: 238
+Hill Climbing Valor Total: 258
+Hill Climbing Peso Total: 239
+Resultados para o arquivo in3.txt:
+Tempo de execução: 3.2739e-05 segundos
+Peso máximo permitido: 600
+Mochila Cheia Valor Total: 496
+Mochila Cheia Peso Total: 600
+Hill Climbing Valor Total: 542
+Hill Climbing Peso Total: 598
+-----------------------------
