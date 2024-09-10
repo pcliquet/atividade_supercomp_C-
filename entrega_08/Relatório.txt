@@ -1,0 +1,9 @@
+Nesta etapa do projeto, trabalhamos com a implementação e análise de algoritmos de busca local para o problema da mochila. 
+O objetivo foi comparar a eficiência e a qualidade das soluções geradas por dois algoritmos principais: Mochila Cheia e Hill Climbing.
+
+Primeiramente, implementamos o algoritmo da Mochila Cheia, que preenche a mochila até o limite de capacidade, priorizando itens até que o peso máximo seja atingido. 
+Em seguida, introduzimos o Hill Climbing, um método que começa com uma solução inicial aleatória e, através de pequenas modificações (vizinhança), tenta melhorar a solução, respeitando sempre a restrição de peso.
+
+Analisamos os resultados com base em três arquivos de entrada, comparando os valores totais e os pesos das soluções encontradas por cada algoritmo. Durante esse processo, garantimos que o Hill Climbing respeitasse a limitação de peso, ajustando o algoritmo para que ele sempre buscasse soluções válidas. As execuções mostraram que o Hill Climbing pode, em algumas ocasiões, encontrar soluções mais eficientes que a Mochila Cheia, aproveitando melhor os itens disponíveis.
+
+Essa análise permitiu verificar a eficácia do Hill Climbing em encontrar soluções otimizadas dentro das restrições impostas, com um desempenho consistente e eficiente em termos de tempo de execução.
